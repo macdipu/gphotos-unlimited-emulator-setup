@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Magisk">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/rootavd-windows-patched/Magisk.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
