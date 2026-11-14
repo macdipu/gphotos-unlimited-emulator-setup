@@ -1,4 +1,4 @@
-﻿
+﻿#powershell.exe -NoProfile -ExecutionPolicy Bypass -File ".\GPhotosSync.ps1"
 #requires -Version 5.1
 
 <#
